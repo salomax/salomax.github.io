@@ -194,6 +194,10 @@ nav .brand-logo img {
   width: 100%;
 }
 
+img.experience {
+  height: 187px;
+  width: auto;  
+}
 
 .profile-img {
   background-image: url("https://media.licdn.com/media/AAEAAQAAAAAAAAVRAAAAJDU2YTllZjBiLWE2ZmQtNGNmYi04NzUyLWEyZWEzNWI3MDhiZA.jpg");
@@ -455,7 +459,7 @@ nav .brand-logo img {
 }
 
 
-#edcuation{
+#education{
   background-color: #fafafa;
   display: inline;
   padding: 60px 0;
